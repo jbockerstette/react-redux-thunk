@@ -4,6 +4,6 @@
 
 `npm i flow-typed -g`
 
-2 `flow-typed install` will look at package.json and add all of 3rd party library type to the flow-typed folder. This will allow flow to run without errors because of missing types.
+2 `flow-typed install` will look at package.json and add all of 3rd party library type defs to the flow-typed folder. This will allow flow to run without missing types errors.
 
 `flow-typed install`
